@@ -1,0 +1,16 @@
+# macOS and Xcode local state
+.DS_Store
+xcuserdata/
+*.xcuserstate
+*.xccheckout
+*.xcscmblueprint
+DerivedData/
+build/
+.build/
+
+# Local review notes and generated media
+/PHASE3.md
+/FINISHING-PASS.md
+/social/
+/*.png
+/*.mp4
